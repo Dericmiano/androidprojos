@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">lessson5</string>
+    <string name="entry_text">Enter Your Details</string>
+    <string name="name">name</string>
+    <string name="text_hint">your name</string>
+    <string name="email_text">email</string>
+    <string name="email_hint" />
+    <string name="email_hntt">your email</string>
+    <string name="text_button_text">Exit</string>
+    <string name="next_button_text">Next</string>
+    <string name="calenderText">select date</string>
+    <string name="testtitle">Details Entered</string>
+    <string name="confrimhint">"name "</string>
+    <string name="texttitlee">Details Entered</string>
+    <string name="datehint">Date</string>
+</resources>

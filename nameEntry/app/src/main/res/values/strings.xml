@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">nameEntry</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name">name</string>
+    <string name="this_is_new_activity">This is new activity</string>
+</resources>

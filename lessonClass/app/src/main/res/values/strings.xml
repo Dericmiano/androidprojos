@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lessonClass</string>
+    <string name="hint">name shuld appear here</string>
+    <string name="my_name">Hello world says Android
+    </string>
+    <string name="name">name</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculatorAssignment</string>
+    <string name="numb1">Enter first number</string>
+    <string name="num2">Enter second number</string>
+    <string name="rtextr">Results:</string>
+    <string name="ans">Your answer</string>
+    <string name="resulthint">your maths</string>
+    <string name="coming_soon">Coming soon</string>
+</resources>

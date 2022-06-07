@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848862637324",
+    "project_id": "smiledetector-4d75a",
+    "storage_bucket": "smiledetector-4d75a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848862637324:android:bcc567fcb777bfbccc2d29",
+        "android_client_info": {
+          "package_name": "com.example.smiledetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848862637324-ace68hg7fopok6h43hkv8osh8qfo9kr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA98rFbuQc0xYJruFFUofVD7k54n3MAazQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848862637324-ace68hg7fopok6h43hkv8osh8qfo9kr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

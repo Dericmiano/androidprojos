@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209853686584",
+    "project_id": "my-attlassian-project",
+    "storage_bucket": "my-attlassian-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209853686584:android:e7d8f0238e98912c9b97cd",
+        "android_client_info": {
+          "package_name": "com.example.myattlassianproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209853686584-ovc318na34dpvfbge3aevj518km67kg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGgIDwg6vt4XOH_doaD3LQdhdGpWvKUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209853686584-ovc318na34dpvfbge3aevj518km67kg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

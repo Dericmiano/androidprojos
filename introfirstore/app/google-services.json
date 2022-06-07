@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161413139585",
+    "project_id": "introfirstore-1a616",
+    "storage_bucket": "introfirstore-1a616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161413139585:android:a3c9f5f538e4ac49ebd180",
+        "android_client_info": {
+          "package_name": "com.example.introfirstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161413139585-23mq1lqijk9dn80o7e7hi6ic4d6aslci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYfdMZb35ZJjyLs4KaqYawFDi5hT2Gr74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161413139585-23mq1lqijk9dn80o7e7hi6ic4d6aslci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

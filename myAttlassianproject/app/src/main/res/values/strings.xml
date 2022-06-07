@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">my Attlassian project</string>
+    <string name="textname">Welcome to Attlasian Community</string>
+    <string name="greatfullText">A company that creates team collaboration tools</string>
+    <string name="getStartedText">Get Started</string>
+    <string name="emailHint">Enter Email</string>
+    <string name="passwordHint">Enter Password</string>
+    <string name="login_text">Sign In</string>
+    <string name="or_text">or</string>
+    <string name="create_text">Sign Up</string>
+    <string name="username_hint">user name</string>
+    <string name="HomeText">Thank you for Register in our community</string>
+</resources>
